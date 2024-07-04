@@ -46,3 +46,15 @@ Tag Field:   character_ids
 ```
 
 Author is required for posting, and at least one character id. I personally have set up some tag groups to name the characters.
+
+## Troubleshooting
+
+Logs can be found here:
+![image](https://github.com/GedasFX/th-initiative/assets/8672277/4e3cc7ae-8fe4-40ff-9f1c-e4d418e9e39c)
+![image](https://github.com/GedasFX/th-initiative/assets/8672277/423ed1f5-5b5a-42f5-a753-a15a3b34ed92)
+
+### Known messasges
+
+* **A valid source must be provided.** Unknown title. Remember, use title as the author.
+* **You must select at least one character.** Self explanatory. Remember, use tags as character ids.
+

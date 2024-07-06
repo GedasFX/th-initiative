@@ -57,4 +57,5 @@ Logs can be found here:
 
 * **A valid source must be provided.** Unknown title. Remember, use title as the author.
 * **You must select at least one character.** Self explanatory. Remember, use tags as character ids.
+* **The caption may not be greater than 255 characters.** Self explanatory.
 

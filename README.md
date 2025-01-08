@@ -2,6 +2,10 @@
 
 I am using [PostyBirb+](https://github.com/mvdicarlo/postybirb-plus) for my uploading needs and they don't natively support Toyhouse. I didn't really have enough time to make a proper contribution to the repository, but at least I reverse engineered it enough to be useful enough to do uploads via custom provider.
 
+## Update
+
+It seems like the uploader no longer works due to cloudflare, and I will respect that and not update to bypass.
+
 ## Running
 
 ```yml
